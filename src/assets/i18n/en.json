@@ -1,0 +1,7 @@
+{
+  "increment": "increment",
+  "decrement": "decrement",
+  "reset": "reset",
+  "currentCount": "current count:",
+  "title": "title"
+}
